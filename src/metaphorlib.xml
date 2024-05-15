@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<list>
+	<item id="RMap-SocialMedia2019" dim="2" rep="I" pos="A">
+		<name>R-Map</name>
+		<year>2019</year>
+		<authors>Shuai Chen, Sihang Li, Siming Chen, and Xiaoru Yuan</authors>
+		<url>https://ieeexplore.ieee.org/abstract/document/8805419</url>
+		<title>R-Map: A Map Metaphor for Visualizing Information Reposting Process in Social Media</title>
+		<publication> IEEE Transactions on Visualization and Computer Graphics ( Volume: 26, Issue: 1, Jan. 2020)</publication>
+	</item>
+
+	<item id="Wittenburg2018" dim="2" rep="I" pos="A">
+		<name>Equal-Height Treemap</name>
+		<year>2018</year>
+		<authors>Kent Wittenburg and Teng-Yok Lee</authors>
+		<url>http://dx.doi.org/10.1145/3206505.3206591</url>
+		<title>Equal-Height Treemaps for multivariate data</title>
+		<publication>AVI'18: Proceedings of the International Conference on Advanced Visual Interfaces, pages 88:1-88:3</publication>
+	</item>
+
+
+</list>
